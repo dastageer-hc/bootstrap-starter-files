@@ -24,4 +24,4 @@ To use this boilerplate:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone git@github.com:dastageer-hc/bootstrap-starter-files.git
